@@ -1,0 +1,25 @@
+vs Ccode
+run js
+postman
+
+Is every thing in js an object?
+
+
+kaylin sir=9843401457
+
+1.Event loop
+hoisting in javascript
+
+1. what is git? 
+what is github? what are its alternatives?
+=>
+what is repo?
+what is branch?
+... clone?
+merge?
+master/ main ?
+git pull vs git fetch ?
+git push 
+commit meaning?
+pull request?
+merge conflicts?
